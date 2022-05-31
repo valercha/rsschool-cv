@@ -2,9 +2,9 @@
 
 ### Contact information:
 
-__Phone:__ +79052830296
-__E-mail:__ valera301182@gmail.com
-__Telegram:__ [@valercha_p](https://t.me/valercha_p)
+__Phone:__ +79052830296<br>
+__E-mail:__ valera301182@gmail.com<br>
+__Telegram:__ [@valercha_p](https://t.me/valercha_p)<br>
 __GitHub:__ [valercha](https://github.com/valercha)
 
 ------------
