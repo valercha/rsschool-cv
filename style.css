@@ -1,0 +1,107 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+html,
+body {
+	background-color: white;
+	overflow-x: hidden;
+}
+
+.overlay {
+	position: fixed;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
+	justify-content: center;
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	align-items: center;
+	width: 100vw;
+	height: 100vh;
+	top: 0;
+	left: 0;
+	opacity: 0;
+	z-index: -1;
+	visibility: hidden;
+	background-color: rgba(0, 0, 0, 0.8);
+}
+
+#modal .pm-container {
+	width: 417px;
+	height: 284px;
+	padding: 30px 25px 0 25px;
+	position: relative;
+	border-radius: 2px;
+	-webkit-box-shadow: 0 0 24px 0 rgba(3, 5, 6, 0.24);
+	box-shadow: 0 0 24px 0 rgba(3, 5, 6, 0.24);
+	background-color: #ffffff;
+}
+
+#modal .modal__header {
+	font-family: "Lato-Regular";
+	color: #212121;
+	font-size: 18px;
+	margin-bottom: 23px;
+}
+
+#modal .close-form {
+	position: absolute;
+	top: 30px;
+	right: 25px;
+	background: url("../img/close.svg");
+	width: 13px;
+	height: 13px;
+	cursor: pointer;
+}
+
+#modal input {
+	border-radius: 2px;
+	-webkit-box-shadow: inset 2.5px 4.3px 5px 0 rgba(3, 5, 6, 0.04);
+	box-shadow: inset 2.5px 4.3px 5px 0 rgba(3, 5, 6, 0.04);
+	border: solid 1px #e3eaf0;
+	padding-left: 17px;
+	padding-right: 17px;
+	color: #989898;
+	font-weight: 300;
+	font-family: "Montserrat-Regular";
+	font-size: 14px;
+	margin-bottom: 11px;
+	height: 49px;
+	width: 100%;
+	outline: none;
+}
+
+#modal .modal-submit {
+	width: 184px;
+	height: 47px;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	align-items: center;
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
+	justify-content: center;
+	margin-top: 20px;
+	font-family: "Roboto-Regular";
+	letter-spacing: 1.4px;
+	color: #ffffff;
+	font-size: 14px;
+	font-weight: bold;
+	background-color: #db3247;
+	border: none;
+	outline: none;
+	border-radius: 36px;
+	cursor: pointer;
+}
+
+#modal .modal-submit:hover {
+	background-color: rgba(219, 50, 71, 0.9);
+}
