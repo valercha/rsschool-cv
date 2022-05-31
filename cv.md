@@ -39,6 +39,7 @@ function sum(a, b) {
 ------------
 
 ## Work Experience:
+- First practical work: [domashka](https://github.com/valercha/domashka)
 - [Freelancehunt](https://freelancehunt.com/freelancer/valercha_p.html)
 
 ------------
