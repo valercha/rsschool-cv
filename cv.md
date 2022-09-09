@@ -5,6 +5,7 @@
 __Phone:__ +79052830296<br>
 __E-mail:__ valera301182@gmail.com<br>
 __Discord:__ Valeriy Sergeevich (@valercha)<br>
+__Telegram:__ [@valercha_p](https://t.me/valercha_p)<br>
 __GitHub:__ [valercha](https://github.com/valercha)
 
 ------------
