@@ -31,10 +31,6 @@ I am a novice frontend developer. I took courses in HTML / CSS and JavaScript(ba
 function test(){
 	console.log("Hello world!");
 }
- 
-function sum(a, b) {
-  return a + b;
-}
 ```
 
 ------------
