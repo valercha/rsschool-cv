@@ -19,7 +19,7 @@ I am a novice frontend developer. I took courses in HTML / CSS and JavaScript(ba
 - __HTML5, CSS3__ (BEM methodology name)
 - __JavaScript__ (basics)
 - __Git__ (GitHub)
-- __Figma__
+- __Figma, Pixso__
 - __IDE:__ VS Code, Sublime Text
 - __OS:__ Windows, UNIX/Linux
 - __Webflow__
