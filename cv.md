@@ -51,7 +51,7 @@ function sum(a, b) {
 ### Courses:
 - __HTML5, CSS3, UNIX/Linux:__ educational platform [Stepik (HTML & CSS)](https://stepik.org/course/38218/syllabus), [UNIX/Linux](https://stepik.org/course/73/syllabus)
 - __JavaScript(basic):__ educational platform [Sololearn](https://www.sololearn.com/learning/1024)
- 
+
 #### My certificates:
 - [Web development for beginners: HTML and CSS](https://stepik.org/cert/302236)
 - [Basics of Html & CSS](https://stepik.org/cert/311617)
@@ -65,4 +65,4 @@ function sum(a, b) {
 ## Languages:
 - __Russian__ - Native
 - __Ukrainian__ - Intermediate
-- __English__ - Basic level A1 (in the process of learning)
+- __English__ - Basic level A1 - A2 (in the process of learning)
