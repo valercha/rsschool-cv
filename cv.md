@@ -41,6 +41,7 @@ function sum(a, b) {
 
 ## Work Experience:
 - First practical work: [domashka](https://valercha.github.io/domashka)
+- My project: [Travel](http://u90528so.beget.tech/travel)
 - [Freelancehunt](https://freelancehunt.com/freelancer/valercha_p.html)
 
 ------------
